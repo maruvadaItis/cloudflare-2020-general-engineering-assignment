@@ -1,1 +1,1 @@
-This assignment was deployed at https://my-worker.sharatmaruwada.workers.dev/
+ https://my-worker.sharatmaruwada.workers.dev/
